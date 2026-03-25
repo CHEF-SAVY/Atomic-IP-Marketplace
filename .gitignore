@@ -1,5 +1,7 @@
 /target
 .env
+build_error.txt
+build_output.txt
 *.wasm
 *.log
 *.tmp
